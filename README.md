@@ -162,6 +162,8 @@ int main(void)
 
 > Adresse de la variable i = 0x7fffc26257dc
 
+<a name="pointeur"></a>
+
 ## La base des pointeurs
 
 Un pointeur est un objet [(Lvalue)](#lvalue) dont la **valeur** est égale à l'adresse mémoire d'un autre objet. Pour déclarer un pointeur il faut:
